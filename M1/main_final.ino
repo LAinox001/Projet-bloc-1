@@ -7,7 +7,6 @@ cardio cardio;
 coeur coeur;
 
 int i;
-int choixLed = 8;                       //défini quelle LED on veut allumer pour la LED au choix
 int ledChenille = 2;                    //définit la LED de départ pour le mode chenille
 
 int valeurPrecedente = 0;

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/generation de param/generationCode.c
+stdio.h
+-
+stdlib.h
+-
+generationCode.h
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/generation de param/generationCode.h
+
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/generation de param/generationCode.h
+

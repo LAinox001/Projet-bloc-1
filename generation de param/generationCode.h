@@ -1,0 +1,10 @@
+//
+// Created by lanto on 14/11/2018.
+//
+
+#ifndef GENERATIONCODE_GENERATIONCODE_H
+#define GENERATIONCODE_GENERATIONCODE_H
+
+void ecrire(int choixMenu);
+
+#endif //GENERATIONCODE_GENERATIONCODE_H

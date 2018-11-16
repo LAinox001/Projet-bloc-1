@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/Module 4/action.c
+stdio.h
+-
+stdlib.h
+-
+action.h
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/Module 4/action.h
+donnees.h
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/Module 4/donnees.h
+
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/Module 4/action.h
+donnees.h
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/Module 4/donnees.h
+
+C:/Users/lanto/Documents/Cours/Projets/Projet bloc 1/Module 4/donnees.h
+stdlib.h
+-
+stdio.h
+-
+
